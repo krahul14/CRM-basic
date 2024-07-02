@@ -53,7 +53,7 @@ export default function SideNavbar({}: Props) {
           },
           {
             title: "People",
-            href: "/people",
+            href: "/users",
             icon: UsersRound,
             variant: "ghost"
           },
